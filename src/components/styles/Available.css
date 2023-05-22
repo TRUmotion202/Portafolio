@@ -1,0 +1,23 @@
+.Available {
+  margin: 100px 0;
+  position: relative;
+  padding: 140px 0;
+  background: url(/images/availableJPG.jpg) center center fixed no-repeat;
+  background-size: cover;
+}
+
+.Available::before {
+  background: rgba(0, 0, 0, .56);
+  bottom: 0;
+  content: "";
+  height: 100%;
+  position: absolute;
+  right: 0;
+  width: 100%;
+  z-index: 0;
+}
+
+.Available__title {
+  position: relative;
+  text-align: center;
+}

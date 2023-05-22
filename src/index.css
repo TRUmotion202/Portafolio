@@ -1,0 +1,68 @@
+/*==============================
+  1. VARIABLES CSS
+==============================*/
+:root {
+  --header-height: 3.5rem;
+  /*========== COLORS ==========*/
+  --first-color: #352263;
+  --second-color: #21173A;
+  --third-color: #000000;
+  --body-color: #18093a;
+  --text-color: #fff;
+  --link-color: #fff;
+  --button-color: transparent;
+
+  /*========== FONTS ==========*/
+  --body-font: 'Source Sans 3', sans-serif;
+  --biggest-text: 3rem;
+  --big-text: 2.25rem;
+  --h1-text: 1.5rem;
+  --h2-text: 1.25rem;
+  --h3-text: 1rem;
+  --normal-text: .938rem;
+  --small-text: .813rem;
+  --smaller-text: .75rem;
+
+  /*========== FONT WEIGHT ==========*/
+  --font-medium: 500;
+  --font-semi-bold: 600;
+  --font-bold: 700;
+
+  /*===== SPACING =====*/
+  --m-1: .5rem;
+  --m-2: 1rem;
+  --m-3: 1.5rem;
+  --m-4: 2rem;
+  --m-5: 2.5rem;
+  --m-6: 3rem;
+
+  /*========== Z INDEX ==========*/
+  --z-fixed: 100;
+  --z-menu: 105;
+}
+
+body {
+  margin: 0;
+}
+
+html {
+  box-sizing: border-box;
+  background-color: rgb(245, 245, 245);
+  font-family: 'Roboto', sans-serif;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: inherit;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  max-width: 100%;
+}

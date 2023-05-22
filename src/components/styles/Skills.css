@@ -1,0 +1,36 @@
+/*----------------Mobile Design-------------------*/
+
+.Skills {
+  padding: 0 15px ;
+}
+
+.Skills__title {
+  text-align: center;
+}
+
+.Skills__description {
+  text-align: center;
+}
+.Skills__skills {
+  margin: 30px 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 40px;
+} 
+
+.Skills__skill {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 290px;
+  aspect-ratio: 1;
+  background-color: var(--first-color);
+  padding: 20px;
+  text-align: center;
+  border-radius: 10px;
+  line-height: 25px;
+} 
+.Skills__skill div {
+  font-size: 50px;
+}

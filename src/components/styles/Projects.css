@@ -1,0 +1,78 @@
+/*----------------Mobile Design-------------------*/
+
+.Projects {
+  padding: 0 15px ;
+}
+
+.Projects__title {
+  text-align: center;
+}
+
+.Projects__description {
+  text-align: center;
+}
+
+.Projects__projects {
+  margin: 30px 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 40px;
+}
+
+.Projects__project {
+  background: url(/images/Screenshot_1.png) center center no-repeat;
+}
+.Projects__project2 {
+  background: url(/images/Screenshot_2.png) center center no-repeat;
+}
+.Projects__project3 {
+  background: url(/images/Screenshot_3.png) center center no-repeat;
+}
+.Projects__project4 {
+  background: url(/images/Screenshot_4.png) center center no-repeat;
+} 
+
+.img-size {
+  width: 290px;
+  aspect-ratio: 1/0.5;
+  background-size: cover;
+  position: relative;
+  padding: 30px 30px;
+}
+
+.hidden-content::before{
+  width: 290px;
+  aspect-ratio: 1/0.5;
+  background-size: cover;
+  background: rgba(0, 0, 0, .50);
+  bottom: 0;
+  content: "";
+  height: 100%;
+  position: absolute;
+  right: 0;
+  width: 100%;
+  z-index: 0;
+}
+
+.Projects__name {
+  position: relative;
+  font-weight: 700;
+}
+.hidden-content span {
+  position: relative;
+  font-size: 21px;
+  margin-right: 5px;
+}
+.Projects__link {
+  position: absolute;
+  bottom: 15px;
+  right: 25px;
+  font-size: 20px;
+  border: 2px solid #fff;
+  border-radius: 50%;
+  padding: 2px 8px;
+}
+.Projects__link a {
+  color: #fff;
+}

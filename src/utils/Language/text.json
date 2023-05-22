@@ -1,0 +1,107 @@
+{
+  "es": {
+    "navbar" : {
+      "skills" : "Habilidades",
+      "projects" : "Proyectos",
+      "contact" : "Contacto"
+    },
+
+    "info": {
+      "greeting": "Soy",
+
+      "presentation" : "Tengo experiencia y conocimientos destacados en el uso de React Js para crear aplicaciones web fullstack altamente responsivas que se adapten perfectamente a tus requisitos como cliente.",
+
+      "me_name" : "Un gusto, mi nombre es Omar Proaño",
+      "me": " y me dedico al desarrollo web, con una especialización en React.js. Me apasiona la tecnología y poseo una habilidad impresionante para aprender por mi cuenta. Tengo 20 años de edad y soy originario de Quito, Ecuador, una ciudad ubicada entre montañas. Me gustaría mucho formar parte de tu equipo, si tienes alguna pregunta o deseas conocer más sobre mí, puedes contactarme a través de mis redes sociales o mediante un mensaje utilizando el formulario de contacto.",
+      "contact" : {
+        "name" : "Nombre:",
+        "age" : "Edad:",
+        "phone" : "Número de celular:",
+        "email" : "Correo:"
+      },
+      "CV" : "Descargar CV" 
+    },
+    "skill" : {
+      "my": "Mis ",
+      "skills" : "Habilidades",
+      "text" : "Algunas de mis habilidades como desarrollador web enfocado a cumplir tus necesidades de aplicaciones web.",
+      "languages" : {
+        "html": "Basto conocimiento de como estructurar y desplegar tu sitio para que sea visible en la web.",
+        "css" : "Experiencia en estilar los componentes para tu sitio web, con increibles diseños completamente responsive y llenos de funciones.",
+        "React" : "Libreria en la que me especializo para maquetar estilar y agregar funcionalidades a tu sitio y asi poder ofrecerte la mejor calidad de proyectos.",
+        "JS" : "Vasto conocimiento en lo que es basicamente el motor de un sitio funcional para asi cubrir las necesidades de cada cliente.",
+        "node": "Entorno en el que me especializo del lado del back-end para asi desarollar tu aplicacion fullstack.",
+        "tailwind" : "Libreria para aplicar estilos que mas utilizo para facilitar animaciones y elementos complejos para asi poder llevar a cabo tu proyecto en la brevedad posible."
+      }
+    },
+    "available" : "Estoy listo para tus aplicaciones 😎 !!",
+    "project" : {
+      "my" : "Mis",
+      "projects" : "Proyectos",
+      "text" : "Algunos de los proyectos web que he realizado con las diferentes tecnologías que manejo, siéntete libre de revisarlos."
+    },
+    "contact" : {
+      "contact" : "Contactame",
+      "text" : "Contáctame para mas información ya sea por el formulario debajo o por teléfono, recuerda que todo empieza con una idea",
+      "form" : {
+        "name" : "Nombre",
+        "email" : "Correo",
+        "subject" : "Asunto",
+        "message" : "Mensaje"
+      }
+    }
+  },
+
+  "en": {
+
+    "navbar" : {
+      "skills" : "Skills",
+      "projects" : "Projects",
+      "contact" : "Contact"
+    },
+
+    "info": {
+      "greeting": "Im",
+
+      "presentation" : "I have outstanding experience and knowledge in using React Js to create highly responsive fullstack web applications that perfectly suit your requirements as a client.",
+
+      "me_name" : "A pleasure, my name is Omar Proaño",
+      "me": " and I am dedicated to web development, with a specialization in React.js. I am passionate about technology and have an impressive ability to learn on my own. I am 20 years old and I am originally from Quito, Ecuador, a city located between mountains. I would very much like to be part of your team, if you have any questions or want to know more about me, you can contact me through my social networks or by sending a message using the contact form.",
+      "contact" : {
+        "name" : "Name:",
+        "age" : "Age:",
+        "phone" : "Phone:",
+        "email" : "Email:"
+      }
+    },
+    "skill" : {
+      "my": "My ",
+      "skills" : "Skills",
+      "text" : "Some of my skills as a web developer focused on meeting your web application needs.",
+      "languages" : {
+        "html": "Strong knowledge of how to structure and display your site so that it is visible on the web.",
+        "css" : "Experience in styling the components for your website, with incredible fully responsive designs and full of functions.",
+        "React" : "Bookstore in which I specialize to layout, style and add functionality to your site and thus be able to offer you the best quality of projects.",
+        "JS" : "Vast knowledge in what is basically the engine of a functional site in order to cover the needs of each client.",
+        "node": "Environment in which I specialize on the back-end side in order to develop your fullstack application.",
+        "tailwind" : "Library to apply styles that I use the most to facilitate animations and complex elements in order to carry out your project as soon as possible."
+      }
+    },
+    "available" : "Im ready for your applications 😎 !!",
+    "project" : {
+      "my" : "My",
+      "projects" : "Projects",
+      "text" : "Some of the web projects that I have done with the different technologies that I use, feel free to review them."
+    },
+    "contact" : {
+      "contact" : "Contactme",
+      "text" : "Contact me for more information either through the form below or by phone, remember that everything starts with an idea",
+      "form" : {
+        "name" : "Name",
+        "email" : "Email",
+        "subject" : "Subject",
+        "message" : "Message"
+      }
+    }
+  }
+}
